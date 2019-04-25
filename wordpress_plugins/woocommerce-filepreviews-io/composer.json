@@ -1,0 +1,15 @@
+{
+    "name": "shompton/woocommerce-fileprevies-io",
+    "description": "Automatically generate previews from product documents",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ralph Harris",
+            "email": "ralph@ralphharris3.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "filepreviews/filepreviews": "^1.0"
+    }
+}
