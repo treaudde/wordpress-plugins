@@ -2,7 +2,7 @@
 
 Custom plugins built for client projects, posted in Github with permission.
 
-###Woocommerce Filepreviews.io integration
+### Woocommerce Filepreviews.io integration
 This is a plugin built for a client who sells legal documents, and needed
 a previews for their documents.  I integrated filepreviews.io into their shopping 
 cart and now they can generate previews through this service
